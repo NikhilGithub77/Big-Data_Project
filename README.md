@@ -1,3 +1,4 @@
+Description:
 FinInsight is a scalable and modular financial intelligence platform that leverages Big Data frameworks and state-of-the-art NLP models to transform unstructured financial information into actionable insights. Developed as part of the CIS-5570 Introduction to Big Data course at the University of Michigan-Dearborn, the project integrates distributed data processing, entity recognition, sentiment analysis, dense vector search, and large language models to answer complex financial queries.
 
 Key Features:
